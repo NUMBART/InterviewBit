@@ -5,7 +5,7 @@
 
 #### (1) Smallest sequence with given Primes
 > Given three prime number(p1, p2, p3) and an integer k. Find the first(smallest) k integers which have only p1, p2, p3 or a combination of them as their prime factors. Example:  
-
+>
 > Input :  
 > Prime numbers : [2,3,5] k : 5  
 > Output:  
