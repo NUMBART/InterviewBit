@@ -1,7 +1,7 @@
 | Serial No. | Topic | Problem |
 |------------|-------|---------|
 | 1 | Strings | [Implement StrStr](https://practice.geeksforgeeks.org/problems/implement-strstr/1) |
-| 2 | Two Pointers | *Smallest sequence with given Primes(1)* |
+| 2 | Two Pointers | [Smallest sequence with given Primes (1)](https://github.com/NUMBART/InterviewBit/blob/8e9ab30103fa40bf3727c87d434f80339f48b7bd/NotSolvedInAnHour.md#1-smallest-sequence-with-given-primes) |
 
 #### (1) Smallest sequence with given Primes
 > Given three prime number(p1, p2, p3) and an integer k. Find the first(smallest) k integers which have only p1, p2, p3 or a combination of them as their prime factors. Example:  
