@@ -4,6 +4,7 @@
 | 2 | Two Pointers | [Smallest sequence with given Primes (1)](https://github.com/NUMBART/InterviewBit/blob/c2f232455cb0cc1018932acab0921b46213e4083/NotSolvedInAnHour.md#1-smallest-sequence-with-given-primes) |
 | 3 | Arrays | [Queens that can attack the king](https://leetcode.com/problems/queens-that-can-attack-the-king/) |
 | 4 | Trees | [Post Order Traversal by iteration](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| 5 | Binary Search & Hashing(similar to 1) | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) |  
 
 #### (1) Smallest sequence with given Primes
 > Given three prime number(p1, p2, p3) and an integer k. Find the first(smallest) k integers which have only p1, p2, p3 or a combination of them as their prime factors. Example:  
