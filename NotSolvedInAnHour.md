@@ -20,5 +20,5 @@
 > Note: The sequence should be sorted in ascending order
 
 #### (2) Vertex Cover Problem
-> A vertex cover of an undirected graph is a subset of its vertices such that for every edge (u, v) of the graph, either ‘u’ or ‘v’ is in vertex cover. 
+> A vertex cover of an undirected graph is a subset of its vertices such that for every edge (u, v) of the graph, either ‘u’ or ‘v’ is in vertex cover.  
 > Given a binary tree with N nodes, find and return the minimum of nodes in its vertex cover.
