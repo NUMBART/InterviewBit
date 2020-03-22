@@ -7,3 +7,5 @@
    0s case and base case improperly handled
 - [Check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)  
    notes
+- [Longest happy prefix](https://leetcode.com/problems/longest-happy-prefix/)  
+   notes
