@@ -9,4 +9,6 @@
    rolling hash done without division  
 ### 23/3/2020
 - [Check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)  
-   notes
+   not done
+- [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/)  
+   not done
