@@ -5,7 +5,8 @@
    notes
 - [Count numbers with unique digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)  
    0s case and base case improperly handled
-- [Check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)  
-   notes
 - [Longest happy prefix](https://leetcode.com/problems/longest-happy-prefix/)  
+   rolling hash done without division  
+### 23/3/2020
+- [Check if there is a valid path in a grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)  
    notes
