@@ -12,3 +12,10 @@
    not done
 - [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/)  
    not done
+### 25/3/2020
+- [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)  
+   done   
+- [Decode Ways](https://leetcode.com/problems/decode-ways/)  
+   done   
+- [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)  
+   not done  
