@@ -18,4 +18,6 @@
 - [Decode Ways](https://leetcode.com/problems/decode-ways/)  
    done   
 - [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)  
-   not done  
+   done  
+- [H-index](https://leetcode.com/problems/h-index/)
+   why answer not possible
