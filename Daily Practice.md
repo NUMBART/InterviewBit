@@ -21,3 +21,10 @@
    done  
 - [H-index](https://leetcode.com/problems/h-index/)
    why answer not possible
+### 26/3/2020
+- [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)  
+   done
+- [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)  
+   not sure why this is greedy
+- [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)  
+   not done also wrong approach
